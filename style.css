@@ -1,0 +1,19 @@
+ul{
+    position: fixed;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.annoucment{
+    background-color:darkseagreen;
+    color: gainsboro;
+}
+
+body{
+    background-color: darkseagreen;
+}
+
+#contact{
+    background-color: darkslategray;
+    color: floralwhite;
+}
